@@ -20,7 +20,7 @@ let s:p={
       \ 'cursor': ['#BBBBBB', 250],
       \ 'identifierUnderCaret': ['#344134', 237],
       \ 'identifierUnderCaretWrite': ['#40332B', 58],
-      \ 'gutter': ['#313335', 236],
+      \ 'gutter': ['NONE', 'NONE'],
       \ 'selection': ['#214283', 24],
       \ 'cursorLine': ['#323232', 236],
       \ 'cursorLineNr': ['#A4A3A3', 248],
